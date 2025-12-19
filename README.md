@@ -27,4 +27,4 @@ se-Assignment-2/
     由input資料夾底下的py檔進行圓餅圖資料的輸入，visualization資料夾底下的py檔則進行圓餅圖輸出。
 
 ## 成品demo
-    [text](https://youtu.be/r3iYrdnb4Sg)
+    Demo Video: https://youtu.be/r3iYrdnb4Sg
